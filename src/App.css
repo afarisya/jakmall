@@ -1,0 +1,58 @@
+:root {
+  --white: #FFFFFF;
+  --black: #000000;
+  --grey: #858585;
+  --grayscale: #EEEEEE;
+  --orange: #FF8A00;
+  --mild-orange: #FFFAE6;
+  --milder-orange: #FFFAE6;
+  --green: #1BD97B;
+  --greenscale: #e8fbf1;
+  --red: #FF0000;
+}
+
+* {
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+  box-sizing: border-box;         /* Opera/IE 8+ */
+}
+
+.App {
+  /* text-align: center; */
+}
+
+.mt-auto {
+  margin-top: auto;
+}
+
+.mt-40 {
+  margin-top: 40px; 
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.ml-auto {
+  margin-left: auto;
+}
+
+.mr-5 {
+  margin-right: 5px;
+}
+
+.mb-10 {
+  margin-bottom: 10px !important;
+}
+
+.mb-5 {
+  margin-bottom: 5px !important;
+}
+
+.disabled {
+  filter: brightness(0.5);
+}
+
+.hidden {
+  visibility: hidden;
+}
