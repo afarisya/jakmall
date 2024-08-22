@@ -1,3 +1,6 @@
+## Live Demo
+https://jakmall.vercel.app/
+
 ## What is it?
 This project was made to implement checkout page from Jakmall technical test.\
 There are three steps in the checkout page : 
